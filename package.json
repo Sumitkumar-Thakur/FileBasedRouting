@@ -1,0 +1,33 @@
+{
+  "name": "filebasedrouting",
+  "version": "1.0.0",
+  "description": "Creating a file based routing used in many frontend frameworks like NEXTJS using nodeJS from scratch.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumitkumar-Thakur/FileBasedRouting.git"
+  },
+  "keywords": [
+    "filebasedrouting",
+    "routing",
+    "file",
+    "nextjs",
+    "nodejs"
+  ],
+  "author": "sumit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumitkumar-Thakur/FileBasedRouting/issues"
+  },
+  "homepage": "https://github.com/Sumitkumar-Thakur/FileBasedRouting#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
